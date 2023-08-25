@@ -8,7 +8,7 @@ The objective of this challenge is to create a machine learning models using ope
 
 These solutions may help enable governments, and other actors to estimate carbon emission levels across Africa, even in places where on-the-ground monitoring is not possible.
 
-This challenge is part of 2023 edition of Kaggle's Playground Series, ie. [Season 3 - Episode 20](https://www.kaggle.com/competitions/playground-series-s3e20/overview).
+This challenge is part of 2023 edition of Kaggle's Playground Series, i.e. [Season 3 - Episode 20](https://www.kaggle.com/competitions/playground-series-s3e20/overview).
 
 ## Dataset Description
 
