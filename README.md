@@ -1,4 +1,4 @@
-# Predict-Carbon-Emissions-in-Rwanda
+# Predict Carbon Emissions in Rwanda
 
 ## Overview
 
