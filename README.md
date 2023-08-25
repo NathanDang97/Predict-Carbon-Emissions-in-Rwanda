@@ -1,4 +1,4 @@
-# Predict-Carbon-Emissions-in-Rwanda
+# Predict Carbon Emissions in Rwanda
 
 ## Overview
 
@@ -18,7 +18,7 @@ Approximately 497 unique locations were selected from multiple areas in Rwanda, 
 
 Seven main features were extracted weekly from Sentinel-5P from January 2019 to November 2022. Each feature (Sulphur Dioxide, Carbon Monoxide, etc) contain sub features such as column_number_density which is the vertical column density at ground level, calculated using the DOAS technique. You can read more about each feature in the below links, including how they are measured and variable definitions. You are given the values of these features in the test set and your goal to predict CO2 emissions using time information as well as these features.
 
-The provided dataset contains 103376 entries, each with 76 features. The model will be tested on 24353 entries.
+The provided dataset contains 103376 entries, each with 76 features. The model will be tested on 24353 entries. The dataset files can be found under the Data folder in this repository.
 
 ## Implementation
 
